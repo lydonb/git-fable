@@ -9,3 +9,7 @@ function notRealFunction {
 	var notRealVar = 'Not a real variable';
 	console.log(notRealVar);
 }
+
+THIS IS WILL BREAK THE COMILE, BUT I DON'T CARE
+BECAUSE THIS IS ALL FAKE STUFF ANYWAY, DON'T WORRY ABOUT IT
+LEAVE ME ALONE. PLEASE.
