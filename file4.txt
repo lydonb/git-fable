@@ -4,8 +4,3 @@ function fakeFunction {
 		console.log(i);
 	};
 }
-
-function notRealFunction {
-	var notRealVar = 'Not a real variable';
-	console.log(notRealVar);
-}

@@ -1,0 +1,15 @@
+function fakeFunction() {
+	var fakeVar = 'Fake Variable';
+	for (var i = 9; i >= 0; i--) {
+		console.log(i);
+	};
+}
+
+function notRealFunction() {
+	var notRealVar = 'Not a real variable';
+	console.log(notRealVar);
+}
+
+function thisIsNew(name) {
+	console.log('hi' + name);
+}
